@@ -14,7 +14,7 @@ Hi! I'm Abdul Samad, a passionate and self-driven Full-Stack Developer focused o
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulsamad_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-samad-8536a2294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samadtharqawi@gmail.com) 
 
-<--  Snake game Animation -->
+<!--  Snake game Animation -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
